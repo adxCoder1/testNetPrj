@@ -11,7 +11,7 @@ namespace ConsoleApp
         {
             get
             {
-                return "MessageStringProvider";
+                return "MessageStringProvider22222";
             }
         }
     }
