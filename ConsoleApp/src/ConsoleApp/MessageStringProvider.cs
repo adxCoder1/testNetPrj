@@ -11,6 +11,7 @@ namespace ConsoleApp
         {
             get
             {
+                //branch2
                 return "MessageStringProvider2222245647457457457457";
             }
         }
